@@ -10,7 +10,7 @@ Para el despliegue de la solución, es necesario el levantamiento de contenedore
 
 	1. Clonación del repositorio.
 	```
-	git clone @
+	git clone https://github.com/tberrios97/Challenge-Neural-Network-Tomas.git
 	```
 	2. Dirigirse a la ruta del repositorio clonado
 	```
